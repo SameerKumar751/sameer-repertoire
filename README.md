@@ -70,3 +70,4 @@ The Resume button downloads `/resume.pdf`. **Replace `public/resume.pdf` with yo
 - Hero thread: `components/thread/HeroThread.tsx` measures the rendered headline (cap-height, baseline, text extents) and builds two layered paths (behind SYSTEMS, in front of the K, ending in a ring on the orange full stop). It rebuilds on resize/font-load and keeps its progress.
 - Rails (About, Principles, Projects, Experience): `components/thread/Rail.tsx` — one timeline per rail; nodes reveal at their real y-position. Principles uses `stuck` because its content stops moving when the next section covers it.
 - Skills: one scrubbed value drives every logo/label/tick (`sections/Skills.tsx`).
+# sameer-repertoire
