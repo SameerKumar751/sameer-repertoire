@@ -1,0 +1,8 @@
+/* Explicit type scale (Bricolage Grotesque display · Inter body · IBM Plex Mono labels). */
+.t-mega { font-family: var(--font-display); font-weight: 800; font-size: clamp(3rem, 13vw, 16rem); line-height: .86; letter-spacing: -.045em; text-transform: uppercase; }
+.t-h1 { font-family: var(--font-display); font-weight: 800; font-size: clamp(3rem, 9vw, 9rem); line-height: .92; letter-spacing: -.04em; }
+.t-h2 { font-family: var(--font-display); font-weight: 700; font-size: clamp(2rem, 5.5vw, 5.5rem); line-height: .98; letter-spacing: -.035em; }
+.t-h3 { font-family: var(--font-display); font-weight: 700; font-size: clamp(1.3rem, 2.4vw, 2rem); line-height: 1.05; letter-spacing: -.02em; }
+.t-lead { font-size: clamp(1.05rem, 1.4vw, 1.3rem); line-height: 1.6; }
+.t-body { font-size: 1rem; line-height: 1.7; }
+.t-mono { font-family: var(--font-mono); font-size: .75rem; letter-spacing: .08em; text-transform: uppercase; }
